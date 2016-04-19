@@ -11,7 +11,9 @@ There is a pdf file which explains the classes in Greek (maybe I make one in Eng
 //Final Version//
 //ReadMe Ver.1.0//
 1)	Frist of all
+
 JAVADOC CAN BE OPEND BY DOUBLE CLICKING AN HTML FILE (E.G. index.html)  FROM THE "javadoc" FOLDER IN "dist" FOLDER
+
 1>>if you use Netbeans program will run correctly 
 if you have the "_javaMailData" folder in the"JmailProject_SERVER" folder
 
