@@ -11,20 +11,21 @@
 	//Final Version//
 	//ReadMe Ver.1.0//
 	1)	Frist of all
-	
-	JAVADOC CAN BE OPEND BY DOUBLE CLICKING AN HTML FILE (E.G. index.html)  FROM THE "javadoc" FOLDER IN "dist" FOLDER
-	
-	1>>if you use Netbeans program will run correctly 
-	if you have the "_javaMailData" folder in the"JmailProject_SERVER" folder
-	
-	2>>if you run the "JmailProject_SERVER.jar" from the "dist" folder the program will run correctly
-	if you have "_javaMailData" folder in the "dist" folder
-	
-	3>>if you run the "JmailProject_SERVER.jar" a random folder the program will run correctly
-	if you have "_javaMailData" and "lib"(this is in the dist folder) folders in the same location as the "JmailProject_SERVER.jar"
-		
-	Program runs without cmd but if you want to see the messages(*) of the server and client
-	(*)By messages mean the prints of the functions that uses sockets
+	Info:
+	>>JAVADOC CAN BE OPEND BY DOUBLE CLICKING AN HTML FILE (E.G. index.html)  FROM THE "javadoc" FOLDER IN "dist" FOLDER
+	>> _javaMailData is the folder with all the data of the email Server
+	Running:
+		1>>if you use Netbeans IDE and import the program will run correctly 
+			when you have the "_javaMailData" folder in the"JmailProject_SERVER" folder
+		2>>if you run the "JmailProject_SERVER.jar" from the "dist" folder the program will run correctly
+			when you have "_javaMailData" folder in the "dist" folder
+		3>>if you run the "JmailProject_SERVER.jar" a random folder the program will run correctly
+			when you have "_javaMailData" and "lib"(this is in the dist folder) folders in the same 
+			location as the "JmailProject_SERVER.jar"
+	//You can always change the "static String urLoc = "C:/";"  to something you like 
+	//in the JmailHelper class in order to have no problems
+	//Program runs without cmd but if you want to see the messages(*) of the server and client
+	//(*)By messages mean the prints of the functions that uses sockets
 	
 	1.1) EXISTING ACCOUNTS ARE 
 						1		2		3
