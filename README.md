@@ -5,7 +5,8 @@
 	It contains an Email Server program and an Email Client program, it has a nice interface fully created by me.
 	I was learning both photoshop when I did this :), I hope you like the design and the Code.
 	Read complete README in order you can run it with no problems.
-	There is a pdf file which explains the classes in Greek (maybe I make one in English someday) also the project have a javadoc in English.
+	There is a pdf file which explains the classes in Greek (maybe I make one in English someday) also the project have
+	a javadoc in English.
 	
 	***IMPORTANT***
 	//Final Version//
