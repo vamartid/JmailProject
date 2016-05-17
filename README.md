@@ -7,7 +7,9 @@
 	Read complete README in order you can run it with no problems.
 	There is a pdf file which explains the classes in Greek (maybe I make one in English someday) also the project have
 	a javadoc in English.
-	[[https://raw.githubusercontent.com/vamartid/JmailProject/master/JmailProject_CLIENT/src/vamartid/test1/images/login.png|alt=octocat]]
+	
+SERVER![alt tag](https://github.com/vamartid/JmailProject/blob/master/JmailProject_SERVER/src/vamartid/test1/images/server3.png)CLIENT![alt tag](https://raw.githubusercontent.com/vamartid/JmailProject/master/JmailProject_CLIENT/src/vamartid/test1/images/login.png)![alt tag](https://github.com/vamartid/JmailProject/blob/master/JmailProject_CLIENT/src/vamartid/test1/images/help.png)
+
 	***IMPORTANT***
 	//Final Version//
 	//ReadMe Ver.1.0//
