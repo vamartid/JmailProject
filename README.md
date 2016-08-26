@@ -114,8 +114,8 @@ so if you have a problem with it check loginData.txt and correct my passwordfiel
 <li>Client's window<br>
 <img src="http://imgur.com/rrF2G44.png" alt="Client's window">
 <li>Client's window help overlay<br>
-<img src="http://imgur.com/C2QUdzr.png" alt="Client's window help overlay">
+<img src="http://imgur.com/rZpKsgU.png" alt="Client's window help overlay">
 <li>Client's new message window<br>
-<img src="http://imgur.com/rZpKsgU.png" alt="Client's new message window">
+<img src="http://imgur.com/C2QUdzr.png" alt="Client's new message window">
 </ul>
 </ul>
